@@ -2,6 +2,11 @@
 Confluence pre-auth ONGL injection remote code execution scanner (CVE-2022-26134).
 
 ## Usage
+The below GIF shows a demo usage of the tool:
+
+![tooldemo](https://user-images.githubusercontent.com/39941993/172548712-6bf81497-99ec-48c2-b076-d8a472c85a1f.gif)
+
+
 Here is the help output of the tool:
 ```
 $ ./cfscan -h
